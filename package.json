@@ -18,5 +18,9 @@
   "homepage": "https://github.com/LinkedTracking/TV2RDF",
   "dependencies": {
     "lru-cache": "^4.0.0"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.4.5"
   }
 }
