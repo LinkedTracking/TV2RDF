@@ -1,0 +1,19 @@
+{
+  "name": "tv2rdf",
+  "version": "1.0.0",
+  "description": "Generates RDF from TheTVDB API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LinkedTracking/TV2RDF"
+  },
+  "author": "Ruben Taelman <rubensworks@gmail.com> (http://rubensworks.net)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LinkedTracking/TV2RDF/issues"
+  },
+  "homepage": "https://github.com/LinkedTracking/TV2RDF"
+}
