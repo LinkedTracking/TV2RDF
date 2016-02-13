@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/LinkedTracking/TV2RDF/issues"
   },
-  "homepage": "https://github.com/LinkedTracking/TV2RDF"
+  "homepage": "https://github.com/LinkedTracking/TV2RDF",
+  "dependencies": {
+    "libxmljs": "^0.17.1"
+  }
 }
